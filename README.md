@@ -17,8 +17,8 @@ After performing a principal component analysis (PCA) and reduce the features to
 
 Principal component analysis (PCA) is a technique for feature extraction, it helps the dimensionality reduction of the data. However it still keeps the most important features of the data, hence both elbow curves indicate the optimal vale of k to be 4.
 
-![Alt text](Images/elbow_original.png)
-![Alt text](Images/elbow_pca.png)
+![Alt text](Images/elbow_original_2.png)
+![Alt text](Images/elbow_pca_2.png)
 
 ## Implementation:
 
